@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "videosclip"
+  "defaultProject": "videosclip",
+  "cli": {
+    "analytics": "50f9251f-d866-4075-87fa-0d0b202568a5"
+  }
 }
